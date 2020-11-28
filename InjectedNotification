@@ -1,0 +1,6 @@
+game.StarterGui:SetCore("SendNotification", {
+       Title = "iSploit";
+       Text = "Sucessfully Injected";
+       Button1 = "Okay";
+       Duration = 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;
+})
